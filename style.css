@@ -1,3 +1,7 @@
 #fw-feed-items .fw-feed-item {
   border-bottom: none;
 }
+
+body > div.fw-branding > a {
+  visibility: hidden;
+}
