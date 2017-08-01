@@ -1,3 +1,44 @@
+@import url("http://fast.fonts.net/t/1.css?apiType=css&projectid=6b749376-9289-4038-8686-7d0920305558");
+@font-face {
+  font-family: "VAG Rounded LT W01 Light";
+  src: url("Fonts/9dd81e7a-1707-4dc7-81df-40e93445eba7.eot?#iefix");
+  src: url("Fonts/9dd81e7a-1707-4dc7-81df-40e93445eba7.eot?#iefix")
+      format("eot"),
+    url("Fonts/882d2ff7-f20c-4a57-9eef-762dc3771395.woff2") format("woff2"),
+    url("Fonts/8db590ec-51e3-4b26-bd16-e6e2a54b86bd.woff") format("woff"),
+    url("Fonts/28486545-985e-4236-9f9e-75b18b163a00.ttf") format("truetype"),
+    url("Fonts/8f970467-2b07-48c7-90c6-08e5545ad175.svg#8f970467-2b07-48c7-90c6-08e5545ad175")
+      format("svg");
+}
+@font-face {
+  font-family: "VAG Rounded LT W01 Bold";
+  src: url("Fonts/79b059b6-2d21-45e5-8b2a-a96e5b2c027f.eot?#iefix");
+  src: url("Fonts/79b059b6-2d21-45e5-8b2a-a96e5b2c027f.eot?#iefix")
+      format("eot"),
+    url("Fonts/1932cf6d-7af4-4bca-8c5d-21dbdb848b41.woff2") format("woff2"),
+    url("Fonts/a0ae295c-02a9-4bcd-ab23-4a32452e53c5.woff") format("woff"),
+    url("Fonts/929539b8-d388-43d1-9d5d-8340906d4ab6.ttf") format("truetype"),
+    url("Fonts/ba6c5c16-fa06-4652-a990-818695edf7f1.svg#ba6c5c16-fa06-4652-a990-818695edf7f1")
+      format("svg");
+}
+
+.fw-feed-title {
+  font-family: "VAG Rounded LT W01 Bold", Helvetica, Arial, sans-serif;
+}
+
+.fw-feed-item-title {
+  font-family: "VAG Rounded LT W01 Bold", Helvetica, Arial, sans-serif;
+}
+
+.fw-feed-item-description {
+  font-family: "VAG Rounded LT W01 Light", Helvetica, Arial, sans-serif;
+}
+
+.fw-feed-item-date {
+  font-family: "VAG Rounded LT W01 Light", Helvetica, Arial, sans-serif;
+}
+
 #fw-feed-items .fw-feed-item {
   border-bottom: none;
 }
+
