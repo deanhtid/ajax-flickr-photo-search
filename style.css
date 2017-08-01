@@ -23,22 +23,17 @@
 }
 
 .fw-feed-title {
-  font-family: "VAG Rounded LT W01 Bold", Helvetica, Arial, sans-serif;
+  font-family: "VAG Rounded LT W01 Bold", Helvetica, Arial, sans-serif !important;
 }
 
 .fw-feed-item-title {
-  font-family: "VAG Rounded LT W01 Bold", Helvetica, Arial, sans-serif;
+  font-family: "VAG Rounded LT W01 Bold", Helvetica, Arial, sans-serif !important;
 }
 
 .fw-feed-item-description {
-  font-family: "VAG Rounded LT W01 Light", Helvetica, Arial, sans-serif;
+  font-family: "VAG Rounded LT W01 Light", Helvetica, Arial, sans-serif !important;
 }
 
 .fw-feed-item-date {
-  font-family: "VAG Rounded LT W01 Light", Helvetica, Arial, sans-serif;
+  font-family: "VAG Rounded LT W01 Light", Helvetica, Arial, sans-serif !important;
 }
-
-#fw-feed-items .fw-feed-item {
-  border-bottom: none;
-}
-
